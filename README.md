@@ -12,13 +12,13 @@ I'm a passionate software developer with over 7 years of experience building rob
 
 ## 💼 Work Experience
 ### 🏢 Ernst & Young (EY)  
-**Software Developer** | *Nov 2022 – May 2023 (Salvador, Brazil)*  
+**Software Developer** | *Nov 2022 – Dec 2023 (Salvador, Brazil)*  
 - Enhanced performance and user experience of a major energy company's application.  
 - Mentored junior developers, fostering collaboration and skill growth.  
 - Leveraged technologies like **Angular**, **TypeScript**, **.NET Core**, and **SQL Server**.  
 
 ### 🏢 Dexian (Affix)  
-**Angular Front-End Consultant** | *May 2022 – May 2023 (Salvador, Brazil)*  
+**Angular Front-End Consultant** | *May 2022 – Ago 2023 (Salvador, Brazil)*  
 - Led front-end development for health insurance solutions using **Angular** and **Tailwind CSS**.  
 - Integrated state management with **NgRx** and optimized CI/CD workflows using **Azure DevOps**.  
 
